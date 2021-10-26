@@ -1,4 +1,4 @@
-###Object Oriented Programming App 4: Photo Searcher
+### Object Oriented Programming App 4: Photo Searcher
 
 - **Description**: This app looks into wikipedia for the word the user enters, then
 gives as output the first image it finds in the wikipedia article.
